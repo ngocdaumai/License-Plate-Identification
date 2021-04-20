@@ -10,7 +10,7 @@
 
 # Step 3: Text Detection on each License Plate
 - Using Tesseract Open Source OCR Engine for text detection
-
+- Link: https://github.com/UB-Mannheim/tesseract/wiki
 # Results:
 - ![output1](https://user-images.githubusercontent.com/52019849/115317915-9e308880-a1b7-11eb-9ba8-ec9695171b7e.PNG)
 
